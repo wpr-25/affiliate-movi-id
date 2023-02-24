@@ -8,9 +8,9 @@ export default function Footer() {
                 <footer class="bg-white dark:bg-gray-900">
                     <div class="container px-6 py-8 mx-auto">
                         <div class="flex flex-col items-center text-center">
-                            <a href="#">
+                            <Link href="/">
                                 <img class="w-auto h-7" src="https://shop.movi.id/img/logos/movi.png" alt="" />
-                            </a>
+                            </Link>
 
                             <div class="flex flex-wrap justify-center mt-6 -mx-4">
                                 <Link href="#" class="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-blue-500 dark:text-gray-300 dark:hover:text-blue-400" aria-label="Reddit"> Instagram </Link>

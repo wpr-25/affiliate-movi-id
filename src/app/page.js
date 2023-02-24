@@ -59,7 +59,7 @@ export default function Home() {
                   <div class="mx-auto max-w-xs px-8">
                     <p class="text-base font-semibold text-gray-600">AFLO Glacier Apple</p>
                     <p class="mt-6 flex items-baseline justify-center gap-x-2">
-                      <span class="text-5xl font-bold tracking-tight text-gray-900"><img src="https://movi.id/wp-content/uploads/2022/05/b0901bef-c857-41a6-a504-ed4589120ab8.jpg" className="rounded-md" /></span>
+                      <span class="text-5xl font-bold tracking-tight text-gray-900"><img src="https://movi.id/wp-content/uploads/2022/05/b0901bef-c857-41a6-a504-ed4589120ab8.jpg" className="rounded-md" alt="Liquid Aflo Terbaik"/></span>
 
                     </p>
                     <Link href="#" class="mt-10 block w-full rounded-md bg-indigo-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">BELI</Link>
